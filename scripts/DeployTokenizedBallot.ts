@@ -15,7 +15,6 @@ async function main() {
   const proposals = ["AAA", "BBB", "CCC"];
   //get token contract address
   //   const tokenContract = process.argv[2];
-  //const tokenContract = "0xa2Ad5c57aFD0C95805DD0726eFDC8d492A5adbf3";
   const tokenContract = "0x5FbDB2315678afecb367f032d93F642f64180aa3";   
   console.log(`Token Contract Address: ${tokenContract}`);
   //set provider, network and wallet
